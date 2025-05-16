@@ -1,0 +1,2 @@
+ERROR:root:Exception occured: division by zero
+ERROR:root:Exception occured: invalid literal for int() with base 10: 'w'
